@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613355545551",
+    "project_id": "sktestapp-c918c",
+    "storage_bucket": "sktestapp-c918c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613355545551:android:cbacd81beee8e555cd68ba",
+        "android_client_info": {
+          "package_name": "com.example.test_progect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKMgdPyKYOkTFii19xhfM8Pug7BOtITE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
